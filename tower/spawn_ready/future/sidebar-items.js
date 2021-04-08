@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["ResponseFuture","Response future from `SpawnReady` services."]]});
